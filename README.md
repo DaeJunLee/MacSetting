@@ -20,3 +20,8 @@ brew intall node
 node -v
 npm -v
 ```
+
+
+## 참고
+
+https://dev-yakuza.posstree.com/ko/environment/mac-iterm-zsh/
